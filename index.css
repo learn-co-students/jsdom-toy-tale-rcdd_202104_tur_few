@@ -48,6 +48,7 @@ button {
   color: whitesmoke;
   font-size: 18px;
   justify-self: center;
+  cursor: pointer;
 }
 
 button:hover {
@@ -97,3 +98,4 @@ button:hover {
   font-family: monospace;
   margin: 3px;
 }
+
