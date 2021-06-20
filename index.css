@@ -20,7 +20,7 @@ body {
 #toy-collection {
   margin: 2rem;
 }
-
+/*
 .card {
   text-align: center;
   border: grey solid 1px;
@@ -31,7 +31,7 @@ body {
   margin: 1rem 2rem;
   box-shadow: 3px 4px #e04b52
 }
-
+*/
 .toy-avatar {
   justify-self: center;
   height: 12rem;
