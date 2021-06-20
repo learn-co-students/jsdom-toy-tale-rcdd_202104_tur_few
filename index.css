@@ -97,3 +97,18 @@ button:hover {
   font-family: monospace;
   margin: 3px;
 }
+
+
+img {
+  width: 200px;
+  height: 200px;
+}
+
+/* .card {
+  border: 3px solid orange;
+}
+
+.card > img {
+  width: 32vw;
+  height: 20vh;
+} */
