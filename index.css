@@ -19,6 +19,10 @@ body {
 
 #toy-collection {
   margin: 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
 }
 
 .card {
@@ -66,7 +70,9 @@ button:hover {
 }
 
 .add-toy-form {
-  width: 80%
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
 }
 
 .submit {
@@ -104,11 +110,12 @@ img {
   height: 200px;
 }
 
-/* .card {
-  border: 3px solid orange;
+.card {
+  /* border: 3px solid orange; */
+  height: 50%;
 }
 
-.card > img {
-  width: 32vw;
-  height: 20vh;
-} */
+/* .card > img { */
+  /* width: 32vw; */
+  /* height: 20vh; */
+/* }  */
